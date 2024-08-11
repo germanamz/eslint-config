@@ -4,6 +4,7 @@
   "description": "Just my own ESLint configuration",
   "main": "index.js",
   "scripts": {},
+  "private": false,
   "keywords": [
     "eslint",
     "config",
