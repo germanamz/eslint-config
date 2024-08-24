@@ -1,6 +1,6 @@
 {
   "name": "@germanamz/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Just my own ESLint configuration",
   "main": "index.js",
   "scripts": {},
