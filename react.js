@@ -7,6 +7,7 @@ module.exports = {
     'airbnb-typescript',
   ],
   rules: {
+    ...common.rules,
     'react/react-in-jsx-scope': ['off'],
     'react/jsx-props-no-spreading': ['off'],
     'react/function-component-definition': ['error', {
