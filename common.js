@@ -24,5 +24,6 @@ module.exports = {
     'no-underscore-dangle': ['off'],
     'no-await-in-loop': ['off'],
     'no-restricted-syntax': ['off'],
+    'import/no-extraneous-dependencies': ['off'],
   },
 };
