@@ -8,6 +8,7 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   parserOptions: {
     project,
+    EXPERIMENTAL_useProjectService: true,
   },
   // settings: {
   //   'import/resolver': {
